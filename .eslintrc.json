@@ -19,8 +19,8 @@
     "plugins": ["@typescript-eslint", "jsdoc", "import"],
     "rules": {
       "linebreak-style": ["error", "unix"],
-      "quotes": ["error", "double", { "allowTemplateLiterals": true }],
-      "semi": ["error", "always"],
+      "quotes": ["error", "single", { "allowTemplateLiterals": true }],
+      "semi": ["error", "never"],
       "prefer-const": "error",
       "eqeqeq": ["error", "always"],
       "curly": ["error"],
