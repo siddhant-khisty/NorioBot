@@ -2,6 +2,7 @@
   "dependencies": {
     "@microsoft/eslint-formatter-sarif": "^2.1.7",
     "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
     "eslint": "^8.20.0"
   }
 }
